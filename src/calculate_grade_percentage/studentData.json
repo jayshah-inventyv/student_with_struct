@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Jay Shah",
+        "phone": "9393939212",
+        "email": "jay.shah@inventyv.com",
+        "marks": {
+            "exam1": {
+                "marksData": [
+                    {
+                        "subject1": {
+                            "marks": 22
+                        }
+                    },
+                    {
+                        "subject2": {
+                            "marks": 12
+                        }
+                    },
+                    {
+                        "subject3": {
+                            "marks": 60
+                        }
+                    },
+                    {
+                        "subject4": {
+                            "marks": 90
+                        }
+                    },
+                    {
+                        "subject5": {
+                            "marks": 30
+                        }
+                    }
+                ]
+            },
+            "exam2": {
+                "marksData": [
+                    {
+                        "subject1": {
+                            "marks": 44
+                        }
+                    },
+                    {
+                        "subject2": {
+                            "marks": 55
+                        }
+                    },
+                    {
+                        "subject3": {
+                            "marks": 42
+                        }
+                    },
+                    {
+                        "subject4": {
+                            "marks": 76
+                        }
+                    },
+                    {
+                        "subject5": {
+                            "marks": 44
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": "2",
+        "name": "Vraj Patel",
+        "phone": "342342345",
+        "email": "vrajpatel@gmail.com",
+        "marks": {
+            "exam1": {
+                "marksData": [
+                    {
+                        "subject1": {
+                            "marks": 25
+                        }
+                    },
+                    {
+                        "subject2": {
+                            "marks": 34
+                        }
+                    },
+                    {
+                        "subject3": {
+                            "marks": 70
+                        }
+                    },
+                    {
+                        "subject4": {
+                            "marks": 80
+                        }
+                    },
+                    {
+                        "subject5": {
+                            "marks": 91
+                        }
+                    }
+                ]
+            },
+            "exam2": {
+                "marksData": [
+                    {
+                        "subject1": {
+                            "marks": 90
+                        }
+                    },
+                    {
+                        "subject2": {
+                            "marks": 78
+                        }
+                    },
+                    {
+                        "subject3": {
+                            "marks": 66
+                        }
+                    },
+                    {
+                        "subject4": {
+                            "marks": 50
+                        }
+                    },
+                    {
+                        "subject5": {
+                            "marks": 67
+                        }
+                    }
+                ]
+            }
+        }
+    }
+]
